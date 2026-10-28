@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+
+# Django
+db.sqlite3
+staticfiles/
+media/
+
+# Secrets
+.env
+.env.*
+
+# Sauvegardes
+* sauvegarde*
+*sauvegarde*
+*backup*
+
+# React / Node
+node_modules/
+dist/
+.env.local
+
+# Système
+.DS_Store
+Thumbs.db
